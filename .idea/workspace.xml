@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="afd61972-4ea0-47a5-bfec-0e56e3b9462a" name="Default Changelist" comment="" />
+    <list default="true" id="afd61972-4ea0-47a5-bfec-0e56e3b9462a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Restaurant/Restaurant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Restaurant/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Restaurant/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Restaurant/menuItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Restaurant/MenuItem.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +22,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WmEjykRX9udfcUSDcNWnqT8b6J" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,9 +34,44 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.Restaurant">
+    <configuration name="Menu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Restaurant.Menu" />
+      <module name="Restaurant Menu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Restaurant.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Restaurant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Restaurant.Restaurant" />
+      <module name="Restaurant Menu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Restaurant.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Restaurant" />
+        <item itemvalue="Application.Menu" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -56,9 +103,53 @@
       <screen x="0" y="23" width="1280" height="721" />
     </state>
     <state x="240" y="50" key="#Project_Structure/0.23.1280.721@0.23.1280.721" timestamp="1579746518506" />
-    <state x="534" y="149" key="#com.intellij.ide.util.MemberChooser" timestamp="1579746717131">
+    <state x="534" y="135" key="#com.intellij.ide.util.MemberChooser" timestamp="1580342337866">
       <screen x="0" y="23" width="1280" height="721" />
     </state>
-    <state x="534" y="149" key="#com.intellij.ide.util.MemberChooser/0.23.1280.721@0.23.1280.721" timestamp="1579746717131" />
+    <state x="534" y="135" key="#com.intellij.ide.util.MemberChooser/0.23.1280.721@0.23.1280.721" timestamp="1580342337866" />
+    <state x="478" y="281" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1580355267326">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state x="478" y="281" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1280.721@0.23.1280.721" timestamp="1580355267326" />
+    <state x="238" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1580327524480">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state x="238" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1280.721@0.23.1280.721" timestamp="1580327524480" />
+    <state width="1209" height="191" key="GridCell.Tab.0.bottom" timestamp="1580951415624">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1209" height="345" key="GridCell.Tab.0.bottom/0.23.1280.721@0.23.1280.721" timestamp="1580937728572" />
+    <state width="1209" height="191" key="GridCell.Tab.0.bottom/0.23.1280.723@0.23.1280.723" timestamp="1580951415624" />
+    <state width="1209" height="191" key="GridCell.Tab.0.center" timestamp="1580951415621">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1209" height="345" key="GridCell.Tab.0.center/0.23.1280.721@0.23.1280.721" timestamp="1580937728571" />
+    <state width="1209" height="191" key="GridCell.Tab.0.center/0.23.1280.723@0.23.1280.723" timestamp="1580951415621" />
+    <state width="1209" height="191" key="GridCell.Tab.0.left" timestamp="1580951415621">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1209" height="345" key="GridCell.Tab.0.left/0.23.1280.721@0.23.1280.721" timestamp="1580937728570" />
+    <state width="1209" height="191" key="GridCell.Tab.0.left/0.23.1280.723@0.23.1280.723" timestamp="1580951415621" />
+    <state width="1209" height="191" key="GridCell.Tab.0.right" timestamp="1580951415623">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1209" height="345" key="GridCell.Tab.0.right/0.23.1280.721@0.23.1280.721" timestamp="1580937728571" />
+    <state width="1209" height="191" key="GridCell.Tab.0.right/0.23.1280.723@0.23.1280.723" timestamp="1580951415623" />
+    <state width="1231" height="222" key="GridCell.Tab.1.bottom" timestamp="1580774462454">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state width="1231" height="222" key="GridCell.Tab.1.bottom/0.23.1280.721@0.23.1280.721" timestamp="1580774462454" />
+    <state width="1231" height="222" key="GridCell.Tab.1.center" timestamp="1580774462454">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state width="1231" height="222" key="GridCell.Tab.1.center/0.23.1280.721@0.23.1280.721" timestamp="1580774462454" />
+    <state width="1231" height="222" key="GridCell.Tab.1.left" timestamp="1580774462453">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state width="1231" height="222" key="GridCell.Tab.1.left/0.23.1280.721@0.23.1280.721" timestamp="1580774462453" />
+    <state width="1231" height="222" key="GridCell.Tab.1.right" timestamp="1580774462454">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state width="1231" height="222" key="GridCell.Tab.1.right/0.23.1280.721@0.23.1280.721" timestamp="1580774462454" />
   </component>
 </project>
